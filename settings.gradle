@@ -1,0 +1,3 @@
+rootProject.name = "HighLightBgDrawableDemo"
+include ':app'
+include ':HighLightBgDrawable'
