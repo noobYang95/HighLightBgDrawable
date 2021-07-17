@@ -1,12 +1,11 @@
 # HighLightBgDrawable
 
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+		maven { url 'https://jitpack.io' }
 	}
+}
   
-  dependencies {
-	        implementation 'com.github.noobYang95:HighLightBgDrawable:1.0'
-	}
+dependencies {
+	implementation 'com.github.noobYang95:HighLightBgDrawable:1.0'
+}
